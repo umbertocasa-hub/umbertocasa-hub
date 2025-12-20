@@ -1,7 +1,9 @@
-# Hi there, I'm Umberto! 👋
-
-### 👨‍💻 Consultant & Architect
-Welcome to my personal hub. I build scalable systems and data solutions.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <h1>Hi there, I'm Umberto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h3>👨‍💻 Consultant & Architect</h3>
+  <p>Welcome to my personal hub. I build scalable systems and data solutions.</p>
+</div>
 
 ---
 
@@ -39,4 +41,8 @@ Welcome to my personal hub. I build scalable systems and data solutions.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=umbertocasa-hub&theme=gitdimmed&no-frame=true&no-bg=true" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=umbertocasa-hub&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
