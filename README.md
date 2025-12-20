@@ -56,11 +56,7 @@
 
 ---
 
-### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umbertocasa-hub&theme=gitdimmed&no-frame=true&no-bg=true" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=umbertocasa-hub&style=flat-square&color=blueviolet" alt="Profile Views" />
