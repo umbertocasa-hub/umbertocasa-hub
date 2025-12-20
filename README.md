@@ -1,13 +1,32 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-  <h1>Hi there, I'm Umberto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <h3>👨‍💻 Consultant & Architect</h3>
-  <p>Welcome to my personal hub. I build scalable systems and data solutions.</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <h1 align="center">Hi there, I'm Umberto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h3 align="center">👨‍💻 Consultant & Architect | Building scalable systems</h3>
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 🔭 About Me
+
+- 🔭 I’m currently working on **Enterprise Directory Systems**
+- 🌱 I’m currently learning **Advanced React Patterns & Cloud Architecture**
+- 👯 I’m looking to collaborate on **Open Source Data Engineering projects**
+- ⚡ Fun fact: **I love sailing and water polo 🤽‍♂️**
+
+---
+
+### 🛠 Connect with me
+
+<div align="center">
+<a href="https://github.com/umbertocasa-hub" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+<!-- Add your other links here (LinkedIn, Twitter, Website) -->
+</div>
+
+---
+
+### 💻 Languages and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <div align="center">
 
