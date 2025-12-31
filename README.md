@@ -33,8 +33,6 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,bash,git,github,gitlab" />
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,python,ts,js,react,nextjs,html,css,tailwind,nodejs" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=r,tensorflow,pytorch,anaconda,postgres,redis" />
   </a>
 </div>
 
