@@ -46,11 +46,9 @@
   <img src="https://streak-stats.demolab.com?user=umbertocasa-hub&theme=transparent&mode=weekly" alt="GitHub Streak" />
 </a>
 
-<!-- Top Langs temporarily disabled due to service outage
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocasa-hub&layout=compact&theme=transparent&hide=procfile,makefile&langs_count=8" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umbertocasa-hub&layout=compact&theme=transparent&hide=procfile,makefile&langs_count=8" alt="Top Languages" />
 </a>
--->
 
 ---
 
