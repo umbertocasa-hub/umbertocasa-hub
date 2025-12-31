@@ -49,6 +49,10 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umbertocasa-hub&layout=compact&theme=transparent&hide=procfile,makefile&langs_count=8" alt="Top Languages" />
 </a>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/umbertocasa-hub/umbertocasa-hub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 
