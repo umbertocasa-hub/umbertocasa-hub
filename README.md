@@ -42,17 +42,15 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umbertocasa-hub&show_icons=true&theme=transparent&rank_icon=github&count_private=true&include_all_commits=true" alt="Umberto's GitHub stats" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=umbertocasa-hub&theme=transparent&mode=weekly" alt="GitHub Streak" />
 </a>
 
+<!-- Top Langs temporarily disabled due to service outage
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umbertocasa-hub&layout=compact&theme=transparent&hide=procfile,makefile&langs_count=8" alt="Top Languages" />
 </a>
-
-</div>
+-->
 
 ---
 
