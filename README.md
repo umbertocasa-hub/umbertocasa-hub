@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-  <h1 align="center">Hi there, I'm Umberto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <h3 align="center">👨‍💻 Consultant & Architect | Building scalable systems</h3>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:e6f9ff,100:4facfe&height=250&section=header&text=Hi%20there,%20I'm%20Umberto!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Consultant%20%26%20Architect%20%7C%20Building%20scalable%20systems&descAlignY=55&descSize=20&fontColor=333333" alt="header" />
 </div>
 
 ---
